@@ -9,7 +9,7 @@ int main()
 
     std::cout << "Hello New branch!\n";
 
-    std::cout << "PullRequest branch changed 23\n";
+    std::cout << "PullRequest branch changed 66\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
